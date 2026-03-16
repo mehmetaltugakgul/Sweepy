@@ -50,12 +50,6 @@ A lightweight, fast, and beautiful disk analysis tool that lives in your menubar
 - macOS 11 (Big Sur) or later
 - Apple Silicon (arm64)
 
-## Built With
-
-- Electron
-- Vanilla JavaScript, HTML, CSS
-- No external UI frameworks — everything is custom built
-
 ---
 
 Made with care for a cleaner Mac.
